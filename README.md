@@ -1,12 +1,10 @@
-## Code-Kalix
+## Code-Foxel
 
-Le Code Kalix et le réseau Kalix sont destiné à tout entrepreneur ayant une activité professionnelle légale en Suisse.
-
+Le Réseau Foxel est régit par le code de déontologie et d'éthique de travail développé par la Fondation Kalix. [http://kalix.ch](http://kalix.ch)
 
 ## Copyright
 
 Copyright (c) 2002-2014 Fondation Kalix - [http://kalix.ch](http://kalix.ch)
-
 
 ## License
 
